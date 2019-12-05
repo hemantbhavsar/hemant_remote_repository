@@ -1,0 +1,17 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is 184C-0192
+
+ Directory of D:\git_local_repository
+
+05-12-2019  03:54 PM    <DIR>          .
+05-12-2019  03:54 PM    <DIR>          ..
+05-12-2019  03:42 PM                 0 forb3.txt.txt
+05-12-2019  03:42 PM               611 forb4.txt
+05-12-2019  03:42 PM               661 forb5.txt
+05-12-2019  03:54 PM                 0 forb6.txt
+05-12-2019  02:55 PM                35 forNewBranch2.txt
+05-12-2019  03:09 PM    <DIR>          New folder
+03-12-2019  05:01 PM               348 test1.txt
+03-12-2019  07:48 PM               398 test2.txt
+               7 File(s)          2,053 bytes
+               3 Dir(s)  175,847,403,520 bytes free
